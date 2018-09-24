@@ -1,0 +1,22 @@
+{
+  "name": "jsonexe",
+  "version": "1.0.0",
+  "description": "Express Routing Assigment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aaron033/ExpressRoutingAssigment.git"
+  },
+  "author": "Aaron Botello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aaron033/ExpressRoutingAssigment/issues"
+  },
+  "homepage": "https://github.com/Aaron033/ExpressRoutingAssigment#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
